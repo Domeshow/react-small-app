@@ -51,6 +51,18 @@
 .blog-preview a{
   text-decoration: none;
 }
+.blog-preview button{
+  background-color: #ffffff;
+  box-shadow: 2px 2px 8px #3c991e;
+  border-radius: 5px 5px;
+  border: none;
+  color: #ff0000;
+  padding: 4px;
+  margin-top: 4px;
+}
+.blog-preview button:hover{
+  cursor: pointer;
+}
 
 /* blog details page */
 .blog-details h2 {
